@@ -1,0 +1,4 @@
+matplotlib~=3.5.2
+networkx~=2.8.8
+numpy~=1.22.3
+colour~=0.1.5
